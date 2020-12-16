@@ -29,12 +29,12 @@
   },
   "homepage": "https://github.com/tsasao/markdown-it-wikilinks#readme",
   "devDependencies": {
-    "coveralls": "^2.11.14",
+    "coveralls": "^3.1.0",
     "eslint": "^3.7.1",
     "istanbul": "^0.4.5",
     "markdown-it": "^8.0.0",
     "markdown-it-testgen": "^0.1.4",
-    "mocha": "^3.1.0",
+    "mocha": "^8.2.1",
     "request": "^2.75.0",
     "rimraf": "^2.5.4"
   },
