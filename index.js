@@ -48,8 +48,8 @@ module.exports = (options) => {
       let htmlAttrsString = ''
       const isSplit = !!match[3]
       if (isSplit) {
-        label = match[3]
-        pageName = match[1]
+        label = match[1]
+        pageName = match[3]
       }
       else {
         label = match[1]

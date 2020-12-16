@@ -34,7 +34,7 @@ Here is a [[Wiki Link]]
 
 
 .
-Click [[Wiki Link|here]] to learn about wiki links
+Click [[here|Wiki Link]] to learn about wiki links
 .
 <p>Click <a href="./Wiki_Link.html">here</a> to learn about wiki links</p>
 .
